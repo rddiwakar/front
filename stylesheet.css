@@ -1,0 +1,55 @@
+#main{
+    margin-top: 60px;
+    background-color: hsl(20, 1%, 89%);
+    width: 97%;
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+header{
+    text-align: center;
+   
+}
+header #title{
+    font-weight: bold;
+    font-size: 40px ;
+}
+header h5{
+    font-size:20px;
+    font-weight: lighter;
+}
+#image-figure{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+#image{
+    padding: 10px;
+}
+#list-of-events{
+    text-align: start;
+    width: 50%;
+    margin: auto;
+    display:grid;
+    grid-row-gap: 20px;
+}
+#list-of-events li span{
+    font-weight: bold;
+    font-size: 20px;
+}
+#statement{
+    width:50%;
+    margin:auto;
+}
+#statement small{
+    display: flex;
+    flex-direction: initial;
+}
+#main-footer{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
